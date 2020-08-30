@@ -1,28 +1,28 @@
 html {
-    margin: 0;
-    padding: 0;
+    margin: 2;
+    padding: 2;
 }
 body {
-    font-family: 'Handlee', cursive;
-    font-size: 13pt;
-    background-color: #efefef;
+    font-family: 'TimesNewRoman', cursive;
+    font-size: 15pt;
+    background-color: coral;
     padding: 10px;
-    margin: 0;
+    margin: 2;
 }
 h1 {
-    font-size: 15pt;
+    font-size: 18pt;
     color: #20bcd5;
     text-align: center;
-    padding: 18px 0 18px 0;
+    padding: 15px 0 15px 0;
     margin: 0 0 10px 0;
 }
 h1 span {
     border: 4px dashed #20bcd5;
-    padding: 10px;
+    padding: 15px;
 }
 p {
     padding: 0;
-    margin: 0;
+    margin: 3;
 }
 .img-circle {
     border: 3px blue;
@@ -123,13 +123,13 @@ textarea {
     height: 100px;
 }
 input, textarea {
-    margin-bottom: 10px;
-    font-size: 11pt;
+    margin-bottom: 15px;
+    font-size: 14pt;
     padding: 15px 10px 10px;
-    border: 1px solid #cecece;
-    background-color: #efefef;
-    color: #787575;
-    border-radius: 5px;
+    border: 1px solid #d5f4e6;
+    background-color: coral;
+    color: #80ced6;
+    border-radius: 7px;
     width: 70%;
     outline: none;
 }
@@ -156,8 +156,8 @@ input, textarea {
     text-align: center;
 }
 .copyright {
-    font-size: 8pt;
+    font-size: 10pt;
     text-align: right;
     padding-bottom: 10px;
-    color: grey;
+    color: #efefef;
 }
