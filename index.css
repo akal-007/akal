@@ -17,8 +17,7 @@ h1 {
     margin: 0 0 10px 0;
 }
 h1 span {
-    border: 4px dashed #20bcd5;
-    p.double {border-style: double;}
+    
     padding: 15px;
 }
 p {
@@ -26,8 +25,8 @@ p {
     margin: 3;
 }
 .img-circle {
-    border: 3px black;
-    border-radius: 20%;
+    
+    
 }
 .section {
     background-color: #fff;
